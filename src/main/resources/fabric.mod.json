@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "tunnelminer",
+  "version": "${version}",
+  "name": "TunnelMiner",
+  "description": "A Meteor Client addon that digs tunnels to target coordinates with lava avoidance and fill-behind.",
+  "authors": ["You"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "meteor": [
+      "com.tunnelminer.addon.TunnelMinerAddon"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "meteor-client": ">=0.5.7"
+  },
+  "mixins": []
+}
