@@ -1,4 +1,4 @@
-# TunnelMiner 🪨
+# TunnelMiner 
 
 A [Meteor Client](https://meteorclient.com/) addon for Minecraft **1.21.10** that automatically digs a straight tunnel from your current position to a target XZ coordinate — with lava avoidance, fill-behind, pickaxe management, and live HUD overlays.
 
