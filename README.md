@@ -45,7 +45,7 @@ ETA: 4m 12s
 - Java 21+
 
 ### Steps
-1. Download the latest `tunnelminer-1.0.0.jar` from [Releases](../../releases)
+1. Download the latest `tunnelminer-1.1.0.jar` from [Releases](../../releases)
 2. Drop it into your `.minecraft/mods/` folder alongside Meteor Client
 3. Launch Minecraft with Fabric
 4. In-game: **Meteor** → **TunnelMiner** category → **Tunnel Miner**
